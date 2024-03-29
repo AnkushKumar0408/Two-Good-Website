@@ -1,6 +1,6 @@
 # Two-Good-Website
 
-So guys this is 17th project of my 30 days frontend project challenge.
+So guys this is 17th project of my 25 days frontend project challenge.
 
 This Website Consist So many Amazing Animations.
 
